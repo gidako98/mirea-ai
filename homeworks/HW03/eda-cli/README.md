@@ -41,6 +41,25 @@ uv run eda-cli overview data/example.csv
 uv run eda-cli report data/example.csv --out-dir reports
 ```
 
+Дополнительные параметры команды `report` (HW03):
+
+- `--title` – заголовок отчёта (первая строка в `report.md`).
+- `--max-hist-columns` – сколько числовых колонок включить в набор гистограмм.
+- `--max-cat-columns` – сколько категориальных колонок анализировать (top-таблицы).
+- `--top-k-categories` – сколько top-значений сохранять для каждой категориальной колонки.
+- `--min-missing-share` – порог доли пропусков: колонки с missing_share >= порога попадают в список «проблемных».
+
+Пример вызова с кастомными настройками:
+
+```bash
+uv run eda-cli report data/example.csv \
+  --out-dir reports_example \
+  --title "EDA: example.csv" \
+  --max-hist-columns 4 \
+  --top-k-categories 10 \
+  --min-missing-share 0.1
+```
+
 В результате в каталоге `reports/` появятся:
 
 - `report.md` – основной отчёт в Markdown;

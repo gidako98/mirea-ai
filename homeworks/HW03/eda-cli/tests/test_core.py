@@ -48,6 +48,26 @@ def test_missing_table_and_quality_flags():
     assert 0.0 <= flags["quality_score"] <= 1.0
 
 
+def test_quality_flags_new_heuristics_constant_and_id_duplicates():
+    df = pd.DataFrame(
+        {
+            "user_id": [1, 1, 2, 3],
+            "const": ["X", "X", "X", "X"],
+            "value": [10, 20, 30, 40],
+        }
+    )
+    summary = summarize_dataset(df)
+    missing_df = missing_table(df)
+
+    flags = compute_quality_flags(summary, missing_df, df)
+
+    assert flags["has_constant_columns"] is True
+    assert "const" in flags["constant_columns"]
+
+    assert flags["has_suspicious_id_duplicates"] is True
+    assert "user_id" in flags["id_duplicate_columns"]
+
+
 def test_correlation_and_top_categories():
     df = _sample_df()
     corr = correlation_matrix(df)
