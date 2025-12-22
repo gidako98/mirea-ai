@@ -8,6 +8,20 @@
 - Python 3.11+
 - [uv](https://docs.astral.sh/uv/) установлен в систему
 
+
+## HTTP API
+
+### Запуск сервиса
+
+```bash
+uv run uvicorn eda_cli.api:app --reload --port 8000
+Эндпоинты
+GET /health — проверка статуса сервиса
+
+POST /quality-from-csv — расчёт quality_score и флагов
+
+POST /quality-flags-from-csv — возврат только флагов качества
+
 ## Инициализация проекта
 
 ### POST /quality-flags-from-csv
