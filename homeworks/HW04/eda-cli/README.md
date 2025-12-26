@@ -11,10 +11,22 @@
 
 ## HTTP API
 
+### Запуск uvicorn (eda_cli.api:app)
+
+```bash
+uv run uvicorn eda_cli.api:app --reload --port 8000
+```
+Эта команда:
+
+- Сервер запустится на http://localhost:8000 или http://127.0.0.1:8000
+- Приложение автоматически перезагрузится при любых изменениях в коде
+- Будет доступно API, определенное в eda_cli/api.py (или eda_cli/api/__init__.py)
+
 ### Запуск сервиса
 
 ```bash
 uv run uvicorn eda_cli.api:app --reload --port 8000
+
 Эндпоинты
 GET /health — проверка статуса сервиса
 
