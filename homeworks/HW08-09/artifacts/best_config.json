@@ -1,0 +1,23 @@
+{
+  "experiment_id": "E4",
+  "dataset": "EMNIST",
+  "seed": 42,
+  "input_shape": [
+    1,
+    28,
+    28
+  ],
+  "input_dim": 784,
+  "num_classes": 47,
+  "hidden_sizes": [
+    256,
+    128
+  ],
+  "dropout": 0.0,
+  "use_batchnorm": true,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "batch_size": 128,
+  "max_epochs": 20,
+  "early_stopping_patience": 4
+}
