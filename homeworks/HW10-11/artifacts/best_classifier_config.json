@@ -1,0 +1,20 @@
+{
+  "dataset": "STL10",
+  "seed": 42,
+  "best_experiment_id": "C4",
+  "architecture": "ResNet18 pretrained, layer4+fc fine-tune",
+  "train_limit": 800,
+  "val_limit": 200,
+  "test_limit": 400,
+  "fast_run": true,
+  "batch_size": 16,
+  "epochs_trained": 1,
+  "optimizer": "AdamW",
+  "lr": 0.0001,
+  "transforms": {
+    "base_transform_cnn": "Resize(64,64) -> ToTensor()",
+    "aug_transform_cnn": "Resize(72,72) -> RandomCrop(64,64) -> RandomHorizontalFlip -> ColorJitter -> ToTensor()",
+    "resnet_train_transform": "Resize(256,256) -> RandomResizedCrop(224) -> RandomHorizontalFlip -> ToTensor() -> Normalize(ImageNet)",
+    "resnet_eval_transform": "Resize(256,256) -> CenterCrop(224) -> ToTensor() -> Normalize(ImageNet)"
+  }
+}
