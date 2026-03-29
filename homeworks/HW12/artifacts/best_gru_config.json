@@ -1,0 +1,16 @@
+{
+  "model_name": "GRUForecaster",
+  "window_size": 48,
+  "horizon": 1,
+  "input_size": 1,
+  "hidden_size": 16,
+  "num_layers": 1,
+  "batch_size": 256,
+  "learning_rate": 0.001,
+  "max_epochs": 8,
+  "optimizer": "Adam",
+  "criterion": "MSELoss",
+  "scaler": "StandardScaler(train target only)",
+  "seed": 42,
+  "device": "cpu"
+}

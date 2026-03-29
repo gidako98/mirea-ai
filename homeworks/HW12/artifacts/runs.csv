@@ -1,0 +1,5 @@
+experiment_id,task,dataset,seed,split_summary,window_size,horizon,model_summary,features_summary,scaler,optimizer,lr,epochs_trained,best_val_mae,best_val_rmse,best_val_mape,test_mae,test_rmse,test_mape,notes
+B1,forecasting,S12-hw-dataset.csv,42,"train=2880, val=720, test=720",,1,naive-last,last observed target,,,,,6.570222222222221,8.308676455636268,4.496575277909907,,,,validation baseline
+B2,forecasting,S12-hw-dataset.csv,42,"train=2880, val=720, test=720",3,1,moving-average,rolling mean,,,,,8.308337962962966,10.128130452657556,5.73212460697731,,,,validation baseline
+B3,forecasting,S12-hw-dataset.csv,42,"train=2880, val=720, test=720",,1,Ridge(alpha=0.1),lags + rolling + calendar,StandardScaler(train only),,,,4.9827900599807595,6.414300805025968,3.3508229119128554,4.3668976599267255,5.64598056006382,2.8389316770400264,tabular baseline
+R1,forecasting,S12-hw-dataset.csv,42,"train=2880, val=720, test=720",48,1,GRU(hidden_size=16),target-only sliding windows,StandardScaler(train target only),Adam,0.001,8,13.14034620920817,15.612731219260176,8.462919676038041,,,,GRU forecast
