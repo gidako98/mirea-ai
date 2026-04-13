@@ -1,0 +1,11 @@
+query,expected_source,retrieved_sources,hit_at_k,recall_at_k,rank_of_first_relevant
+Как разделить большое Flask-приложение на несколько модулей с маршрутами?,doc_blueprints,doc_blueprints | doc_routing_views | doc_deployment_gunicorn_nginx,1,1.0,1
+Как передать данные из view-функции в HTML-шаблон?,doc_jinja_templates,doc_jinja_templates | doc_routing_views,1,1.0,1
+Чем лучше запускать Flask в production за reverse proxy?,doc_deployment_gunicorn_nginx,doc_deployment_gunicorn_nginx | doc_jinja_templates | doc_logging_monitoring,1,1.0,1
+Где хранить SECRET_KEY и другие секреты приложения?,doc_config_secrets,doc_config_secrets | doc_forms_validation,1,1.0,1
+Как тестировать маршруты и JSON API во Flask?,doc_testing_pytest | doc_rest_api_json,doc_rest_api_json | doc_routing_views,1,0.5,1
+Как работать с формами и избежать повторной отправки после POST?,doc_forms_validation,doc_forms_validation | doc_config_secrets,1,1.0,1
+Для чего нужен Flask-Login и где хранится сессия пользователя?,doc_sessions_auth,doc_sessions_auth | doc_intro_app_structure,1,1.0,1
+Как настроить ORM и миграции для базы данных во Flask?,doc_sqlalchemy_models,doc_sqlalchemy_models | doc_config_secrets,1,1.0,1
+Как логировать ошибки и отправлять логи в мониторинг?,doc_logging_monitoring,doc_logging_monitoring,1,1.0,1
+Как вернуть JSON и правильно выставлять HTTP-коды ответа?,doc_rest_api_json,doc_rest_api_json | doc_testing_pytest,1,1.0,1

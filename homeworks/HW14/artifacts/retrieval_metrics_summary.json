@@ -1,0 +1,31 @@
+{
+  "seed": 42,
+  "embedding_method": "TF-IDF (word + bigram) + L2 normalization",
+  "faiss_index": "IndexFlatIP",
+  "similarity": "cosine via normalized inner product",
+  "chunk_size": 320,
+  "overlap": 80,
+  "top_k": 3,
+  "num_documents_before_update": 12,
+  "num_documents_after_update": 15,
+  "num_chunks_before_update": 36,
+  "hit_at_k": 1.0,
+  "recall_at_k": 0.95,
+  "mrr_at_k": 1.0,
+  "chunk_size_experiment": [
+    {
+      "chunk_size": 320,
+      "overlap": 80,
+      "num_chunks": 36,
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.95
+    },
+    {
+      "chunk_size": 480,
+      "overlap": 80,
+      "num_chunks": 24,
+      "hit_at_3": 1.0,
+      "recall_at_3": 0.95
+    }
+  ]
+}
