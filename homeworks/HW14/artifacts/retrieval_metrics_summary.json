@@ -8,7 +8,7 @@
   "top_k": 3,
   "num_documents_before_update": 12,
   "num_documents_after_update": 15,
-  "num_chunks_before_update": 36,
+  "num_chunks_before_update": 31,
   "hit_at_k": 1.0,
   "recall_at_k": 0.95,
   "mrr_at_k": 1.0,
@@ -16,7 +16,7 @@
     {
       "chunk_size": 320,
       "overlap": 80,
-      "num_chunks": 36,
+      "num_chunks": 31,
       "hit_at_3": 1.0,
       "recall_at_3": 0.95
     },
@@ -25,7 +25,7 @@
       "overlap": 80,
       "num_chunks": 24,
       "hit_at_3": 1.0,
-      "recall_at_3": 0.95
+      "recall_at_3": 1.0
     }
   ]
 }

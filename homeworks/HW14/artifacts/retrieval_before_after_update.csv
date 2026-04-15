@@ -1,5 +1,5 @@
 query,before_retrieved_sources,after_retrieved_sources,changed
-Как добавить кэширование результатов и хранить кэш в Redis?,doc_sqlalchemy_models | doc_sessions_auth,doc_caching,True
-Чем ограничить частоту запросов к публичному API?,doc_sqlalchemy_models | doc_rest_api_json | doc_blueprints,doc_rate_limiting,True
-Когда лучше использовать SSE вместо WebSocket во Flask?,doc_deployment_gunicorn_nginx | doc_routing_views | doc_intro_app_structure,doc_realtime_updates,True
-Как запускать Flask в production за reverse proxy?,doc_deployment_gunicorn_nginx | doc_jinja_templates | doc_config_secrets,doc_deployment_gunicorn_nginx | doc_jinja_templates | doc_config_secrets,False
+Как добавить кэширование результатов и хранить кэш в Redis?,doc_config_secrets | doc_jinja_templates | doc_deployment_gunicorn_nginx,doc_caching_redis | doc_config_secrets,True
+Чем ограничить частоту запросов к публичному API?,doc_deployment_gunicorn_nginx | doc_testing_pytest | doc_rest_api_json,doc_deployment_gunicorn_nginx | doc_rate_limiting | doc_rest_api_json,True
+Когда лучше использовать SSE вместо WebSocket во Flask?,doc_jinja_templates | doc_deployment_gunicorn_nginx | doc_rest_api_json,doc_sse_vs_websocket | doc_jinja_templates,True
+Как запускать Flask в production за reverse proxy?,doc_deployment_gunicorn_nginx | doc_logging_monitoring,doc_rate_limiting | doc_deployment_gunicorn_nginx | doc_logging_monitoring,True
