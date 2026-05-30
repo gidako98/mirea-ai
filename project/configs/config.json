@@ -1,0 +1,18 @@
+{
+  "project_name": "ticket-priority-triage",
+  "random_state": 42,
+  "target_column": "priority",
+  "data_path": "data/sample_tickets.csv",
+  "model_path": "artifacts/model.joblib",
+  "metrics_path": "artifacts/metrics.json",
+  "test_size": 0.25,
+  "service": {
+    "host": "0.0.0.0",
+    "port": 8000
+  },
+  "model": {
+    "max_text_features": 3000,
+    "logistic_regression_C": 2.0,
+    "max_iter": 1000
+  }
+}

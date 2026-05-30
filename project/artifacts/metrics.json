@@ -1,0 +1,84 @@
+{
+  "dataset_rows": 600,
+  "target_distribution": {
+    "medium": 247,
+    "low": 228,
+    "high": 125
+  },
+  "baseline": {
+    "accuracy": 0.4133,
+    "macro_f1": 0.195,
+    "classification_report": {
+      "high": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 31.0
+      },
+      "low": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 57.0
+      },
+      "medium": {
+        "precision": 0.41333333333333333,
+        "recall": 1.0,
+        "f1-score": 0.5849056603773585,
+        "support": 62.0
+      },
+      "accuracy": 0.41333333333333333,
+      "macro avg": {
+        "precision": 0.13777777777777778,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.19496855345911948,
+        "support": 150.0
+      },
+      "weighted avg": {
+        "precision": 0.17084444444444444,
+        "recall": 0.41333333333333333,
+        "f1-score": 0.24176100628930816,
+        "support": 150.0
+      }
+    }
+  },
+  "final_model": {
+    "accuracy": 0.94,
+    "macro_f1": 0.9419,
+    "classification_report": {
+      "high": {
+        "precision": 1.0,
+        "recall": 0.9032258064516129,
+        "f1-score": 0.9491525423728814,
+        "support": 31.0
+      },
+      "low": {
+        "precision": 0.9636363636363636,
+        "recall": 0.9298245614035088,
+        "f1-score": 0.9464285714285714,
+        "support": 57.0
+      },
+      "medium": {
+        "precision": 0.8955223880597015,
+        "recall": 0.967741935483871,
+        "f1-score": 0.9302325581395349,
+        "support": 62.0
+      },
+      "accuracy": 0.94,
+      "macro avg": {
+        "precision": 0.9530529172320218,
+        "recall": 0.9335974344463308,
+        "f1-score": 0.9419378906469958,
+        "support": 150.0
+      },
+      "weighted avg": {
+        "precision": 0.9429977385798282,
+        "recall": 0.94,
+        "f1-score": 0.9402971732642603,
+        "support": 150.0
+      }
+    }
+  },
+  "selected_model": "tfidf_onehot_numeric_logistic_regression",
+  "selection_reason": "Final model has higher macro F1 than the majority-class baseline while remaining interpretable and fast."
+}

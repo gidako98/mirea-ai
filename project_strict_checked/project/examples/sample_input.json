@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "text": "Production outage: all users cannot log in. Please respond as soon as possible.",
+      "channel": "phone",
+      "customer_tier": "enterprise",
+      "product_area": "login",
+      "sentiment_score": -0.88,
+      "account_age_days": 980
+    },
+    {
+      "text": "Question about updating my profile picture.",
+      "channel": "web",
+      "customer_tier": "free",
+      "product_area": "integrations",
+      "sentiment_score": 0.42,
+      "account_age_days": 120
+    }
+  ]
+}

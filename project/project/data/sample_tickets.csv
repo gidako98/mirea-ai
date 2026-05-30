@@ -1,0 +1,601 @@
+ticket_id,text,channel,customer_tier,product_area,sentiment_score,account_age_days,priority
+TCKT-00111,Where can I see the product documentation? Customer impact is increasing.,email,free,integrations,0.009,1095,low
+TCKT-00420,"Minor typo in the help page, no urgent impact.",chat,free,billing,0.499,341,low
+TCKT-00566,Export file is missing some recent records. Please respond as soon as possible.,email,standard,payments,-0.203,1754,medium
+TCKT-00078,Where can I see the product documentation?,email,standard,integrations,0.021,1289,low
+TCKT-00182,User cannot reset password after multiple attempts.,chat,standard,security,0.24,469,medium
+TCKT-00285,Integration stopped syncing for one workspace.,web,free,integrations,0.331,840,medium
+TCKT-00011,Payment failed for one customer but retry worked later.,chat,free,billing,0.1,748,medium
+TCKT-00470,Security incident with suspicious account access. Please respond as soon as possible.,email,standard,performance,-0.649,40,high
+TCKT-00079,User cannot reset password after multiple attempts.,web,premium,billing,0.088,380,medium
+TCKT-00350,Production outage: all users cannot log in.,phone,enterprise,security,-0.365,513,high
+TCKT-00056,Dashboard is slow and several charts time out.,chat,premium,login,0.33,1144,medium
+TCKT-00119,Payment failed for one customer but retry worked later.,web,standard,payments,-0.1,1551,medium
+TCKT-00110,How can I change my notification settings?,email,premium,performance,0.229,635,low
+TCKT-00589,How can I change my notification settings?,email,standard,integrations,0.413,625,low
+TCKT-00370,Security incident with suspicious account access. Please respond as soon as possible.,phone,enterprise,security,-0.451,728,high
+TCKT-00235,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",email,free,billing,0.207,77,low
+TCKT-00031,Question about updating my profile picture.,web,premium,billing,0.603,1302,low
+TCKT-00213,"Minor typo in the help page, no urgent impact. Customer impact is increasing.",phone,free,performance,0.706,1052,low
+TCKT-00185,"Minor typo in the help page, no urgent impact.",phone,free,integrations,0.444,354,low
+TCKT-00087,"Minor typo in the help page, no urgent impact.",chat,premium,payments,0.275,1208,low
+TCKT-00003,Security incident with suspicious account access.,phone,standard,payments,-0.596,1391,high
+TCKT-00588,Dashboard is slow and several charts time out.,email,premium,integrations,0.053,775,medium
+TCKT-00536,Payment failed for one customer but retry worked later. Customer impact is increasing.,email,premium,security,-0.003,666,medium
+TCKT-00597,Question about updating my profile picture. Customer impact is increasing.,email,free,login,0.627,270,low
+TCKT-00369,I need help finding the invoice download button.,web,free,security,0.188,416,low
+TCKT-00540,Payment failed for one customer but retry worked later.,email,premium,login,0.262,1411,medium
+TCKT-00073,Security incident with suspicious account access.,chat,premium,security,-0.147,1906,high
+TCKT-00136,Export file is missing some recent records.,web,free,login,0.084,1045,medium
+TCKT-00557,Dashboard is slow and several charts time out. Please respond as soon as possible.,email,free,login,-0.069,439,medium
+TCKT-00438,Production outage: all users cannot log in.,phone,premium,payments,-0.134,2083,high
+TCKT-00596,How can I change my notification settings?,web,standard,performance,0.474,1359,low
+TCKT-00164,Export file is missing some recent records. Customer impact is increasing.,email,premium,billing,0.236,1317,medium
+TCKT-00083,Payment failed for one customer but retry worked later.,web,standard,login,-0.465,1316,medium
+TCKT-00258,How can I change my notification settings?,email,free,integrations,-0.146,1264,low
+TCKT-00193,Where can I see the product documentation?,phone,standard,performance,0.401,511,low
+TCKT-00454,Question about updating my profile picture.,phone,standard,integrations,0.14,1450,low
+TCKT-00133,How can I change my notification settings?,chat,premium,integrations,0.259,1023,low
+TCKT-00516,Payment failed for one customer but retry worked later.,email,free,login,0.039,2183,medium
+TCKT-00442,"Minor typo in the help page, no urgent impact. Please respond as soon as possible. Customer impact is increasing.",email,free,integrations,-0.031,715,low
+TCKT-00276,Export file is missing some recent records.,chat,standard,security,0.199,1494,medium
+TCKT-00365,Enterprise customer reports data loss after migration.,email,premium,integrations,-0.529,2073,low
+TCKT-00030,"Minor typo in the help page, no urgent impact.",email,free,login,0.459,2026,low
+TCKT-00507,Payment processing is down for all regions.,chat,enterprise,login,-0.453,2158,high
+TCKT-00571,Critical API errors affecting premium customers.,chat,enterprise,login,-0.549,1940,high
+TCKT-00025,Production outage: all users cannot log in.,email,enterprise,billing,-0.632,877,high
+TCKT-00183,Critical API errors affecting premium customers.,web,premium,login,-0.478,889,high
+TCKT-00474,Dashboard is slow and several charts time out.,email,enterprise,performance,-0.109,437,medium
+TCKT-00105,Payment failed for one customer but retry worked later.,web,standard,payments,0.067,1585,medium
+TCKT-00064,Export file is missing some recent records.,chat,enterprise,login,-0.011,1284,medium
+TCKT-00491,"Minor typo in the help page, no urgent impact. Customer impact is increasing.",web,premium,billing,0.494,1990,low
+TCKT-00246,I need help finding the invoice download button.,email,standard,billing,0.081,784,low
+TCKT-00249,I need help finding the invoice download button.,chat,standard,integrations,0.296,1381,low
+TCKT-00102,"Minor typo in the help page, no urgent impact.",web,standard,security,0.422,1148,low
+TCKT-00556,User cannot reset password after multiple attempts.,web,free,payments,0.272,21,low
+TCKT-00592,Export file is missing some recent records.,chat,standard,login,-0.183,635,medium
+TCKT-00357,Export file is missing some recent records. Please respond as soon as possible.,email,premium,payments,0.433,373,medium
+TCKT-00210,"Minor typo in the help page, no urgent impact.",email,standard,billing,0.19,53,medium
+TCKT-00166,Payment processing is down for all regions.,web,premium,payments,-0.527,1385,high
+TCKT-00138,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",chat,free,integrations,0.172,75,low
+TCKT-00196,How can I change my notification settings?,web,standard,security,0.115,295,low
+TCKT-00077,Question about updating my profile picture.,chat,standard,security,0.33,1365,low
+TCKT-00177,Export file is missing some recent records. Please respond as soon as possible.,web,free,performance,-0.319,2198,medium
+TCKT-00330,User cannot reset password after multiple attempts.,chat,free,login,-0.1,1096,medium
+TCKT-00537,"Minor typo in the help page, no urgent impact.",email,standard,integrations,0.575,629,medium
+TCKT-00549,Payment failed for one customer but retry worked later. Customer impact is increasing.,email,free,performance,-0.561,1263,medium
+TCKT-00071,"Minor typo in the help page, no urgent impact.",web,free,login,-0.006,1487,low
+TCKT-00562,Export file is missing some recent records. Customer impact is increasing.,chat,premium,payments,-0.299,387,medium
+TCKT-00590,I need help finding the invoice download button.,web,free,payments,0.016,1534,low
+TCKT-00082,Payment failed for one customer but retry worked later.,email,free,integrations,-0.373,361,medium
+TCKT-00317,Integration stopped syncing for one workspace. Please respond as soon as possible.,chat,premium,integrations,0.072,497,medium
+TCKT-00305,Payment processing is down for all regions.,phone,enterprise,performance,-0.808,963,high
+TCKT-00007,Dashboard is slow and several charts time out. Customer impact is increasing.,phone,standard,performance,-0.241,1718,medium
+TCKT-00424,Payment processing is down for all regions.,email,premium,security,-0.392,1375,high
+TCKT-00375,User cannot reset password after multiple attempts.,phone,enterprise,billing,-0.252,547,medium
+TCKT-00430,User cannot reset password after multiple attempts.,email,free,performance,-0.151,1065,medium
+TCKT-00538,Dashboard is slow and several charts time out. Please respond as soon as possible.,chat,premium,payments,0.126,1167,medium
+TCKT-00313,Critical API errors affecting premium customers. Please respond as soon as possible.,email,premium,payments,-0.328,1627,high
+TCKT-00239,Where can I see the product documentation? Please respond as soon as possible.,chat,free,integrations,0.448,610,low
+TCKT-00560,"Minor typo in the help page, no urgent impact.",chat,free,security,0.284,668,low
+TCKT-00433,Integration stopped syncing for one workspace.,chat,standard,performance,0.27,1701,medium
+TCKT-00287,Integration stopped syncing for one workspace. Customer impact is increasing.,web,free,payments,-0.056,2061,medium
+TCKT-00427,I need help finding the invoice download button. Customer impact is increasing.,email,standard,payments,0.582,1770,low
+TCKT-00599,Payment failed for one customer but retry worked later. Please respond as soon as possible.,chat,standard,payments,0.431,1681,medium
+TCKT-00362,Dashboard is slow and several charts time out.,phone,premium,security,-0.135,2093,medium
+TCKT-00074,How can I change my notification settings?,email,free,login,0.481,266,low
+TCKT-00040,Integration stopped syncing for one workspace.,chat,enterprise,billing,-0.009,1730,medium
+TCKT-00156,Security incident with suspicious account access.,web,enterprise,integrations,-0.218,1379,high
+TCKT-00219,Where can I see the product documentation?,chat,premium,login,0.134,1023,low
+TCKT-00371,I need help finding the invoice download button. Please respond as soon as possible.,chat,standard,performance,-0.129,1243,low
+TCKT-00211,"Minor typo in the help page, no urgent impact.",web,free,login,0.001,1767,medium
+TCKT-00236,I need help finding the invoice download button.,chat,free,integrations,0.39,448,low
+TCKT-00547,Export file is missing some recent records.,phone,standard,performance,0.127,1362,medium
+TCKT-00061,Question about updating my profile picture. Please respond as soon as possible.,chat,free,login,0.239,988,low
+TCKT-00301,Dashboard is slow and several charts time out. Please respond as soon as possible.,web,standard,payments,-0.276,945,medium
+TCKT-00260,Production outage: all users cannot log in. Please respond as soon as possible. Customer impact is increasing.,email,enterprise,payments,-0.738,1878,medium
+TCKT-00281,Integration stopped syncing for one workspace. Please respond as soon as possible.,chat,standard,login,-0.111,307,medium
+TCKT-00229,Export file is missing some recent records.,email,enterprise,login,-0.061,2136,medium
+TCKT-00012,Critical API errors affecting premium customers.,phone,premium,login,-0.776,178,high
+TCKT-00413,Integration stopped syncing for one workspace.,web,standard,performance,-0.182,2060,medium
+TCKT-00084,Dashboard is slow and several charts time out.,email,standard,performance,-0.377,425,medium
+TCKT-00091,Enterprise customer reports data loss after migration. Customer impact is increasing.,email,enterprise,security,-0.821,1181,high
+TCKT-00209,Question about updating my profile picture. Please respond as soon as possible.,email,standard,security,0.353,730,low
+TCKT-00539,Dashboard is slow and several charts time out.,phone,standard,login,-0.283,1318,medium
+TCKT-00336,How can I change my notification settings?,email,free,integrations,-0.05,1975,low
+TCKT-00080,Question about updating my profile picture.,email,enterprise,billing,0.235,649,low
+TCKT-00435,Production outage: all users cannot log in.,email,premium,performance,-0.592,1096,medium
+TCKT-00141,Export file is missing some recent records.,email,free,billing,-0.074,1757,medium
+TCKT-00282,Question about updating my profile picture. Please respond as soon as possible.,chat,standard,integrations,0.554,1669,low
+TCKT-00269,User cannot reset password after multiple attempts.,email,premium,integrations,-0.126,134,medium
+TCKT-00415,Payment processing is down for all regions. Please respond as soon as possible.,phone,premium,payments,-0.657,684,high
+TCKT-00200,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,standard,payments,-0.289,1486,medium
+TCKT-00465,Where can I see the product documentation? Please respond as soon as possible.,phone,free,billing,0.544,455,low
+TCKT-00576,How can I change my notification settings? Please respond as soon as possible. Customer impact is increasing.,email,enterprise,integrations,0.528,707,low
+TCKT-00585,User cannot reset password after multiple attempts.,web,premium,performance,-0.31,2175,medium
+TCKT-00372,User cannot reset password after multiple attempts.,email,standard,performance,0.291,727,medium
+TCKT-00400,Question about updating my profile picture.,email,free,integrations,0.322,1354,low
+TCKT-00341,Dashboard is slow and several charts time out.,phone,premium,performance,0.218,1189,medium
+TCKT-00149,Export file is missing some recent records.,chat,standard,billing,-0.175,1939,medium
+TCKT-00495,Where can I see the product documentation?,web,enterprise,performance,-0.039,1945,low
+TCKT-00440,Where can I see the product documentation? Please respond as soon as possible.,email,free,security,0.161,449,low
+TCKT-00146,Payment failed for one customer but retry worked later. Please respond as soon as possible.,chat,standard,billing,0.009,1251,medium
+TCKT-00010,Enterprise customer reports data loss after migration. Please respond as soon as possible. Customer impact is increasing.,chat,standard,payments,-0.715,2064,high
+TCKT-00376,Payment processing is down for all regions. Please respond as soon as possible.,email,enterprise,performance,-0.357,1097,high
+TCKT-00524,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,premium,login,-0.432,1215,medium
+TCKT-00189,Dashboard is slow and several charts time out. Customer impact is increasing.,web,standard,security,0.439,1323,medium
+TCKT-00132,Security incident with suspicious account access.,web,enterprise,security,-0.482,1002,high
+TCKT-00573,Integration stopped syncing for one workspace. Customer impact is increasing.,email,enterprise,billing,-0.217,1604,medium
+TCKT-00299,Payment failed for one customer but retry worked later.,web,premium,payments,0.099,1119,medium
+TCKT-00587,Payment failed for one customer but retry worked later. Please respond as soon as possible.,email,standard,performance,0.799,1527,medium
+TCKT-00447,Enterprise customer reports data loss after migration.,web,premium,login,-0.223,836,high
+TCKT-00085,How can I change my notification settings? Customer impact is increasing.,email,free,integrations,0.303,1048,low
+TCKT-00593,Export file is missing some recent records. Please respond as soon as possible.,web,standard,security,-0.365,100,medium
+TCKT-00178,"Minor typo in the help page, no urgent impact.",chat,free,integrations,0.191,1340,low
+TCKT-00154,Question about updating my profile picture.,email,premium,login,0.287,1987,low
+TCKT-00453,Integration stopped syncing for one workspace. Please respond as soon as possible.,chat,premium,integrations,-0.476,1839,medium
+TCKT-00197,Integration stopped syncing for one workspace.,email,free,login,0.174,987,medium
+TCKT-00076,How can I change my notification settings?,chat,enterprise,integrations,0.43,1109,low
+TCKT-00093,User cannot reset password after multiple attempts.,email,premium,payments,-0.14,1249,medium
+TCKT-00297,Security incident with suspicious account access. Please respond as soon as possible.,phone,premium,security,-0.166,379,high
+TCKT-00069,How can I change my notification settings?,chat,enterprise,performance,0.03,276,low
+TCKT-00016,Production outage: all users cannot log in. Customer impact is increasing.,chat,enterprise,performance,-0.804,1195,high
+TCKT-00205,Dashboard is slow and several charts time out.,web,enterprise,login,-0.676,1672,medium
+TCKT-00159,How can I change my notification settings?,web,enterprise,login,-0.118,1240,low
+TCKT-00089,Export file is missing some recent records.,email,free,performance,0.419,1559,medium
+TCKT-00498,Where can I see the product documentation?,chat,free,login,0.234,849,low
+TCKT-00118,Payment processing is down for all regions.,web,premium,security,-1.0,1200,high
+TCKT-00383,How can I change my notification settings? Customer impact is increasing.,phone,standard,integrations,0.82,1743,low
+TCKT-00406,Dashboard is slow and several charts time out.,chat,standard,login,-0.076,468,medium
+TCKT-00034,User cannot reset password after multiple attempts.,chat,standard,performance,-0.131,553,medium
+TCKT-00001,User cannot reset password after multiple attempts. Customer impact is increasing.,phone,premium,billing,0.125,968,medium
+TCKT-00594,"Minor typo in the help page, no urgent impact. Customer impact is increasing.",phone,standard,login,0.385,1620,low
+TCKT-00532,Integration stopped syncing for one workspace.,chat,free,login,-0.02,1275,medium
+TCKT-00354,User cannot reset password after multiple attempts. Customer impact is increasing.,web,premium,integrations,-0.044,1789,medium
+TCKT-00333,Payment failed for one customer but retry worked later. Please respond as soon as possible. Customer impact is increasing.,email,enterprise,performance,-0.325,990,medium
+TCKT-00535,Critical API errors affecting premium customers. Please respond as soon as possible.,chat,premium,payments,-0.511,166,high
+TCKT-00245,Payment processing is down for all regions.,email,enterprise,integrations,-0.225,1004,high
+TCKT-00023,Dashboard is slow and several charts time out. Please respond as soon as possible. Customer impact is increasing.,email,premium,billing,-0.102,2138,medium
+TCKT-00441,How can I change my notification settings?,web,enterprise,performance,0.086,821,low
+TCKT-00117,Where can I see the product documentation? Please respond as soon as possible.,web,free,security,0.282,1203,low
+TCKT-00090,Where can I see the product documentation? Please respond as soon as possible. Customer impact is increasing.,chat,free,integrations,0.024,1118,low
+TCKT-00366,Dashboard is slow and several charts time out. Please respond as soon as possible.,web,enterprise,payments,-0.536,1730,low
+TCKT-00212,Security incident with suspicious account access. Please respond as soon as possible.,chat,enterprise,payments,-0.491,1211,high
+TCKT-00019,Integration stopped syncing for one workspace.,email,standard,login,-0.346,819,medium
+TCKT-00408,Question about updating my profile picture.,chat,free,integrations,0.592,1373,low
+TCKT-00321,"Minor typo in the help page, no urgent impact.",email,enterprise,payments,0.101,1468,low
+TCKT-00145,Export file is missing some recent records. Please respond as soon as possible.,web,premium,billing,0.078,1358,medium
+TCKT-00290,Production outage: all users cannot log in.,email,enterprise,performance,-0.177,332,high
+TCKT-00275,I need help finding the invoice download button.,web,free,integrations,0.607,1983,low
+TCKT-00542,Export file is missing some recent records.,phone,premium,integrations,0.268,1130,medium
+TCKT-00361,Dashboard is slow and several charts time out. Please respond as soon as possible.,email,standard,billing,0.107,1052,low
+TCKT-00251,Payment failed for one customer but retry worked later.,chat,premium,performance,-0.097,282,medium
+TCKT-00288,Critical API errors affecting premium customers.,email,standard,performance,-0.448,1769,high
+TCKT-00529,Critical API errors affecting premium customers.,phone,standard,security,-0.224,2016,high
+TCKT-00401,Dashboard is slow and several charts time out.,web,premium,performance,0.159,614,medium
+TCKT-00168,Payment processing is down for all regions. Please respond as soon as possible.,email,premium,performance,-0.591,419,high
+TCKT-00055,Integration stopped syncing for one workspace.,chat,standard,performance,-0.185,1160,medium
+TCKT-00494,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",email,premium,login,0.435,47,low
+TCKT-00047,Export file is missing some recent records. Customer impact is increasing.,email,premium,security,-0.218,2119,low
+TCKT-00094,Export file is missing some recent records.,web,free,billing,-0.007,211,medium
+TCKT-00265,Where can I see the product documentation?,email,free,security,0.303,1347,low
+TCKT-00109,Question about updating my profile picture.,email,premium,payments,-0.383,1232,low
+TCKT-00273,Question about updating my profile picture.,email,free,integrations,-0.01,83,low
+TCKT-00600,Where can I see the product documentation?,web,standard,payments,0.505,30,low
+TCKT-00480,Where can I see the product documentation? Please respond as soon as possible. Customer impact is increasing.,email,standard,integrations,0.51,1127,low
+TCKT-00437,"Minor typo in the help page, no urgent impact.",phone,free,security,0.248,1927,low
+TCKT-00384,Question about updating my profile picture.,chat,standard,performance,-0.082,686,low
+TCKT-00381,Question about updating my profile picture. Please respond as soon as possible.,email,standard,integrations,0.118,582,low
+TCKT-00463,"Minor typo in the help page, no urgent impact.",email,free,performance,-0.079,1540,low
+TCKT-00395,Production outage: all users cannot log in.,email,premium,payments,-0.367,1064,high
+TCKT-00266,Integration stopped syncing for one workspace.,chat,standard,login,-0.111,1177,medium
+TCKT-00481,Integration stopped syncing for one workspace.,phone,free,integrations,-0.035,530,high
+TCKT-00518,Payment failed for one customer but retry worked later.,chat,enterprise,performance,0.393,16,medium
+TCKT-00070,User cannot reset password after multiple attempts.,email,standard,billing,-0.288,191,medium
+TCKT-00232,How can I change my notification settings? Please respond as soon as possible.,email,standard,login,0.069,1980,low
+TCKT-00404,Dashboard is slow and several charts time out.,email,standard,billing,0.403,547,medium
+TCKT-00279,Dashboard is slow and several charts time out. Please respond as soon as possible.,chat,enterprise,billing,-0.332,2118,medium
+TCKT-00473,Critical API errors affecting premium customers. Please respond as soon as possible.,email,enterprise,billing,-0.678,2149,high
+TCKT-00351,How can I change my notification settings?,phone,enterprise,integrations,0.807,753,low
+TCKT-00510,Production outage: all users cannot log in.,email,standard,performance,-0.363,1901,high
+TCKT-00150,Payment processing is down for all regions.,chat,enterprise,login,-0.449,1147,medium
+TCKT-00125,How can I change my notification settings?,web,enterprise,security,0.201,934,low
+TCKT-00429,Question about updating my profile picture. Please respond as soon as possible.,chat,standard,integrations,0.268,1031,high
+TCKT-00466,User cannot reset password after multiple attempts.,chat,free,performance,-0.343,449,medium
+TCKT-00186,Export file is missing some recent records.,web,premium,login,0.192,934,medium
+TCKT-00228,Security incident with suspicious account access.,email,premium,integrations,-0.553,1047,high
+TCKT-00292,Integration stopped syncing for one workspace. Please respond as soon as possible.,phone,premium,performance,-0.389,634,medium
+TCKT-00248,"Minor typo in the help page, no urgent impact. Customer impact is increasing.",email,free,login,0.487,813,low
+TCKT-00291,Integration stopped syncing for one workspace.,chat,enterprise,performance,-0.643,1539,medium
+TCKT-00250,Payment failed for one customer but retry worked later. Please respond as soon as possible.,web,standard,billing,0.031,2002,medium
+TCKT-00444,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",email,standard,billing,0.431,383,low
+TCKT-00552,"Minor typo in the help page, no urgent impact.",chat,free,login,0.374,2111,low
+TCKT-00553,Question about updating my profile picture. Please respond as soon as possible.,email,free,performance,0.481,1440,low
+TCKT-00551,Critical API errors affecting premium customers.,email,enterprise,login,-0.949,449,high
+TCKT-00115,Enterprise customer reports data loss after migration.,chat,standard,billing,-0.344,718,high
+TCKT-00204,User cannot reset password after multiple attempts. Please respond as soon as possible.,chat,standard,performance,-0.198,75,medium
+TCKT-00142,Export file is missing some recent records.,web,enterprise,login,0.405,1701,medium
+TCKT-00339,I need help finding the invoice download button.,chat,free,performance,0.696,1434,low
+TCKT-00008,Integration stopped syncing for one workspace.,chat,standard,payments,0.076,2183,high
+TCKT-00522,Integration stopped syncing for one workspace.,chat,free,login,-0.116,1563,medium
+TCKT-00020,Production outage: all users cannot log in.,phone,enterprise,security,-0.664,366,high
+TCKT-00173,Payment processing is down for all regions.,phone,premium,billing,-0.867,1564,high
+TCKT-00452,Payment failed for one customer but retry worked later.,email,free,billing,-0.015,684,medium
+TCKT-00057,Export file is missing some recent records. Please respond as soon as possible.,email,free,login,0.084,620,low
+TCKT-00302,Payment failed for one customer but retry worked later. Please respond as soon as possible.,email,standard,payments,-0.227,79,medium
+TCKT-00337,Security incident with suspicious account access.,chat,enterprise,integrations,-0.52,1737,high
+TCKT-00451,How can I change my notification settings?,chat,free,login,0.286,68,low
+TCKT-00323,Question about updating my profile picture. Customer impact is increasing.,web,free,login,0.708,270,low
+TCKT-00311,I need help finding the invoice download button. Please respond as soon as possible.,phone,free,billing,0.64,1921,medium
+TCKT-00050,Dashboard is slow and several charts time out. Customer impact is increasing.,email,enterprise,performance,0.416,908,medium
+TCKT-00345,User cannot reset password after multiple attempts.,email,standard,billing,0.278,2021,medium
+TCKT-00026,Payment failed for one customer but retry worked later. Please respond as soon as possible.,chat,enterprise,security,-0.425,1396,medium
+TCKT-00443,"Minor typo in the help page, no urgent impact.",email,free,integrations,0.956,1874,low
+TCKT-00221,Question about updating my profile picture.,chat,premium,performance,0.364,1048,low
+TCKT-00484,Payment failed for one customer but retry worked later.,email,standard,login,0.018,661,medium
+TCKT-00541,"Minor typo in the help page, no urgent impact.",chat,free,security,0.265,1371,low
+TCKT-00043,Enterprise customer reports data loss after migration.,phone,enterprise,billing,-0.499,599,high
+TCKT-00417,Export file is missing some recent records.,web,premium,security,-0.29,1130,medium
+TCKT-00262,Export file is missing some recent records.,chat,standard,login,-0.186,1509,medium
+TCKT-00409,Payment failed for one customer but retry worked later.,chat,enterprise,login,-0.112,59,low
+TCKT-00278,Integration stopped syncing for one workspace. Customer impact is increasing.,email,premium,billing,0.199,51,medium
+TCKT-00570,Payment failed for one customer but retry worked later. Please respond as soon as possible. Customer impact is increasing.,chat,standard,login,0.146,2152,medium
+TCKT-00382,Security incident with suspicious account access. Customer impact is increasing.,phone,enterprise,integrations,-0.919,2179,low
+TCKT-00412,Integration stopped syncing for one workspace.,web,standard,performance,-0.487,1135,medium
+TCKT-00155,Payment failed for one customer but retry worked later.,web,standard,billing,-0.223,1132,high
+TCKT-00127,User cannot reset password after multiple attempts.,web,standard,integrations,-0.338,1831,medium
+TCKT-00310,Where can I see the product documentation?,email,standard,billing,0.114,614,low
+TCKT-00520,Payment processing is down for all regions.,email,standard,payments,-0.175,968,high
+TCKT-00446,User cannot reset password after multiple attempts.,email,standard,login,-0.08,1991,medium
+TCKT-00175,Payment processing is down for all regions.,chat,premium,performance,-0.783,1385,high
+TCKT-00032,"Minor typo in the help page, no urgent impact.",chat,standard,billing,0.873,209,medium
+TCKT-00114,Integration stopped syncing for one workspace.,chat,premium,performance,0.161,1299,medium
+TCKT-00024,Export file is missing some recent records. Please respond as soon as possible.,phone,free,billing,-0.466,1528,medium
+TCKT-00174,Payment failed for one customer but retry worked later.,web,free,login,0.085,436,medium
+TCKT-00558,Integration stopped syncing for one workspace.,web,standard,payments,-0.525,544,medium
+TCKT-00067,Export file is missing some recent records.,phone,enterprise,billing,-0.176,1053,medium
+TCKT-00058,Export file is missing some recent records.,chat,free,login,-0.697,37,medium
+TCKT-00322,Payment processing is down for all regions.,email,enterprise,security,-0.405,264,high
+TCKT-00223,Question about updating my profile picture.,email,standard,payments,0.242,311,low
+TCKT-00018,Where can I see the product documentation?,web,free,billing,0.337,1480,low
+TCKT-00300,"Minor typo in the help page, no urgent impact.",email,free,integrations,0.222,2115,low
+TCKT-00256,Payment processing is down for all regions.,email,standard,security,-0.746,2189,high
+TCKT-00306,Payment processing is down for all regions. Customer impact is increasing.,chat,enterprise,security,-0.336,1797,high
+TCKT-00574,Enterprise customer reports data loss after migration.,phone,enterprise,integrations,-1.0,1478,high
+TCKT-00191,How can I change my notification settings?,web,free,performance,0.094,769,medium
+TCKT-00319,Question about updating my profile picture. Please respond as soon as possible.,chat,free,billing,0.216,1086,low
+TCKT-00528,How can I change my notification settings? Please respond as soon as possible.,email,standard,payments,0.368,985,low
+TCKT-00272,User cannot reset password after multiple attempts. Please respond as soon as possible.,web,premium,billing,-0.36,880,medium
+TCKT-00095,Critical API errors affecting premium customers.,chat,enterprise,security,-0.841,2008,high
+TCKT-00181,Enterprise customer reports data loss after migration.,chat,enterprise,login,-0.593,2184,high
+TCKT-00332,Integration stopped syncing for one workspace. Customer impact is increasing.,chat,standard,performance,-0.324,158,medium
+TCKT-00329,Question about updating my profile picture. Customer impact is increasing.,chat,premium,integrations,0.216,1497,low
+TCKT-00312,Integration stopped syncing for one workspace.,phone,free,integrations,0.224,625,medium
+TCKT-00006,Critical API errors affecting premium customers. Customer impact is increasing.,email,enterprise,security,-0.495,855,high
+TCKT-00046,Where can I see the product documentation? Customer impact is increasing.,email,free,login,0.184,2198,low
+TCKT-00399,Export file is missing some recent records. Please respond as soon as possible. Customer impact is increasing.,email,standard,performance,-0.318,488,medium
+TCKT-00577,Integration stopped syncing for one workspace. Please respond as soon as possible.,email,premium,billing,-0.1,959,medium
+TCKT-00469,Payment failed for one customer but retry worked later.,chat,standard,performance,0.936,929,medium
+TCKT-00017,Question about updating my profile picture.,web,free,security,0.147,1818,medium
+TCKT-00049,I need help finding the invoice download button.,email,standard,login,0.325,39,low
+TCKT-00580,I need help finding the invoice download button.,email,free,integrations,0.393,208,low
+TCKT-00488,How can I change my notification settings?,phone,standard,billing,0.434,641,low
+TCKT-00004,Question about updating my profile picture.,chat,standard,login,0.458,343,low
+TCKT-00487,User cannot reset password after multiple attempts.,web,standard,integrations,-0.156,1665,medium
+TCKT-00439,Question about updating my profile picture. Customer impact is increasing.,email,standard,login,0.249,1098,low
+TCKT-00363,Integration stopped syncing for one workspace. Please respond as soon as possible.,email,free,billing,0.231,1845,high
+TCKT-00434,Question about updating my profile picture.,chat,standard,integrations,0.108,222,low
+TCKT-00303,I need help finding the invoice download button. Please respond as soon as possible.,chat,free,integrations,0.471,1176,low
+TCKT-00226,Dashboard is slow and several charts time out.,web,free,payments,0.018,1681,medium
+TCKT-00027,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,standard,performance,-0.005,1727,medium
+TCKT-00425,Where can I see the product documentation?,chat,enterprise,security,0.306,1750,low
+TCKT-00264,Question about updating my profile picture.,phone,free,security,0.227,758,medium
+TCKT-00051,How can I change my notification settings?,chat,standard,login,0.217,549,low
+TCKT-00230,Export file is missing some recent records. Customer impact is increasing.,email,premium,billing,-0.248,2148,medium
+TCKT-00038,Where can I see the product documentation? Please respond as soon as possible.,web,premium,security,0.805,982,low
+TCKT-00158,I need help finding the invoice download button. Please respond as soon as possible. Customer impact is increasing.,chat,premium,integrations,0.374,195,low
+TCKT-00238,Enterprise customer reports data loss after migration. Customer impact is increasing.,phone,enterprise,security,-0.979,1695,high
+TCKT-00575,Question about updating my profile picture.,email,standard,login,0.36,1411,low
+TCKT-00176,"Minor typo in the help page, no urgent impact.",email,premium,performance,0.149,135,low
+TCKT-00515,Enterprise customer reports data loss after migration. Please respond as soon as possible.,phone,enterprise,payments,-0.516,363,high
+TCKT-00358,Question about updating my profile picture. Please respond as soon as possible.,web,free,payments,0.284,1579,low
+TCKT-00195,Payment processing is down for all regions. Please respond as soon as possible.,email,standard,integrations,-0.682,2028,high
+TCKT-00504,Export file is missing some recent records. Please respond as soon as possible.,email,standard,security,-0.503,1694,medium
+TCKT-00579,Integration stopped syncing for one workspace.,chat,premium,billing,-0.17,2140,medium
+TCKT-00512,Question about updating my profile picture.,email,standard,billing,0.316,433,low
+TCKT-00068,Export file is missing some recent records.,email,premium,performance,-0.351,970,medium
+TCKT-00320,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",chat,enterprise,billing,0.352,865,low
+TCKT-00169,Export file is missing some recent records. Please respond as soon as possible.,email,standard,login,0.133,844,medium
+TCKT-00368,Payment processing is down for all regions.,chat,premium,integrations,-0.887,1065,high
+TCKT-00163,Where can I see the product documentation? Please respond as soon as possible. Customer impact is increasing.,chat,standard,performance,0.282,612,low
+TCKT-00194,Payment failed for one customer but retry worked later.,chat,free,integrations,0.207,1410,medium
+TCKT-00153,Dashboard is slow and several charts time out. Please respond as soon as possible.,web,free,performance,0.028,946,medium
+TCKT-00502,Payment failed for one customer but retry worked later. Customer impact is increasing.,chat,standard,login,0.013,2177,low
+TCKT-00347,Enterprise customer reports data loss after migration. Please respond as soon as possible.,web,standard,security,-0.718,89,high
+TCKT-00486,User cannot reset password after multiple attempts.,phone,free,performance,-0.233,1498,medium
+TCKT-00334,Where can I see the product documentation? Customer impact is increasing.,email,free,integrations,0.532,1305,low
+TCKT-00104,User cannot reset password after multiple attempts. Customer impact is increasing.,email,standard,security,0.376,1360,medium
+TCKT-00391,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",email,standard,login,-0.045,41,low
+TCKT-00075,Enterprise customer reports data loss after migration.,chat,standard,payments,-0.868,185,high
+TCKT-00423,Payment processing is down for all regions. Customer impact is increasing.,chat,premium,payments,-0.532,1691,high
+TCKT-00578,Payment failed for one customer but retry worked later. Please respond as soon as possible. Customer impact is increasing.,email,premium,integrations,0.213,455,medium
+TCKT-00120,Integration stopped syncing for one workspace.,web,enterprise,performance,-0.329,2192,medium
+TCKT-00397,Critical API errors affecting premium customers.,web,premium,security,-0.51,1762,high
+TCKT-00410,Export file is missing some recent records. Please respond as soon as possible.,chat,premium,integrations,-0.31,1507,medium
+TCKT-00482,Payment processing is down for all regions.,chat,enterprise,integrations,-0.305,2187,high
+TCKT-00208,Export file is missing some recent records.,chat,standard,performance,-0.435,595,medium
+TCKT-00335,Integration stopped syncing for one workspace. Please respond as soon as possible.,chat,standard,security,0.059,834,medium
+TCKT-00353,How can I change my notification settings? Customer impact is increasing.,email,free,security,0.754,1072,low
+TCKT-00342,I need help finding the invoice download button.,web,premium,integrations,0.192,288,low
+TCKT-00405,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",web,standard,login,0.339,920,low
+TCKT-00009,"Minor typo in the help page, no urgent impact.",chat,standard,integrations,0.12,903,low
+TCKT-00378,Question about updating my profile picture.,email,premium,integrations,0.472,1100,low
+TCKT-00037,Export file is missing some recent records.,phone,enterprise,billing,-0.08,2095,medium
+TCKT-00140,Enterprise customer reports data loss after migration.,chat,enterprise,login,-0.775,1763,high
+TCKT-00254,Integration stopped syncing for one workspace. Customer impact is increasing.,email,free,performance,0.183,1345,medium
+TCKT-00304,Payment failed for one customer but retry worked later.,chat,free,login,0.199,82,medium
+TCKT-00543,Payment failed for one customer but retry worked later. Please respond as soon as possible.,web,standard,security,-0.618,824,medium
+TCKT-00060,Where can I see the product documentation? Please respond as soon as possible.,chat,premium,integrations,0.517,1157,low
+TCKT-00112,Security incident with suspicious account access.,chat,premium,integrations,-0.8,1158,high
+TCKT-00364,User cannot reset password after multiple attempts. Please respond as soon as possible.,phone,premium,payments,0.111,527,medium
+TCKT-00355,Export file is missing some recent records. Customer impact is increasing.,email,standard,performance,0.101,245,low
+TCKT-00263,"Minor typo in the help page, no urgent impact.",phone,premium,login,0.479,806,low
+TCKT-00526,Enterprise customer reports data loss after migration.,chat,enterprise,integrations,-0.668,2050,medium
+TCKT-00298,Dashboard is slow and several charts time out.,web,free,security,-0.396,1197,medium
+TCKT-00151,Payment failed for one customer but retry worked later. Please respond as soon as possible.,email,free,billing,-0.569,831,medium
+TCKT-00267,Export file is missing some recent records.,email,standard,payments,-0.399,305,medium
+TCKT-00519,Question about updating my profile picture.,chat,standard,security,0.231,1955,low
+TCKT-00531,Integration stopped syncing for one workspace. Please respond as soon as possible.,phone,standard,performance,-0.286,963,medium
+TCKT-00039,User cannot reset password after multiple attempts.,chat,free,performance,-0.404,22,medium
+TCKT-00432,Export file is missing some recent records.,web,standard,security,-0.174,350,medium
+TCKT-00308,I need help finding the invoice download button. Please respond as soon as possible.,email,standard,integrations,0.61,1571,low
+TCKT-00199,Production outage: all users cannot log in.,chat,enterprise,login,-0.691,652,high
+TCKT-00356,Export file is missing some recent records.,email,standard,login,-0.157,1188,high
+TCKT-00147,Where can I see the product documentation?,email,standard,performance,0.344,476,low
+TCKT-00471,"Minor typo in the help page, no urgent impact.",web,premium,payments,0.464,1125,low
+TCKT-00533,Export file is missing some recent records.,phone,standard,payments,-0.247,1191,medium
+TCKT-00148,Enterprise customer reports data loss after migration.,web,premium,billing,-0.944,860,high
+TCKT-00421,How can I change my notification settings? Please respond as soon as possible.,chat,premium,integrations,0.542,690,low
+TCKT-00349,"Minor typo in the help page, no urgent impact.",email,free,billing,0.348,1875,low
+TCKT-00326,Security incident with suspicious account access.,phone,enterprise,security,-0.758,2046,high
+TCKT-00514,Critical API errors affecting premium customers.,web,standard,login,-0.286,1460,high
+TCKT-00124,Payment processing is down for all regions.,phone,standard,security,-0.588,157,high
+TCKT-00503,Security incident with suspicious account access. Customer impact is increasing.,email,enterprise,login,-0.805,558,high
+TCKT-00097,Integration stopped syncing for one workspace.,chat,standard,performance,0.472,55,medium
+TCKT-00144,How can I change my notification settings?,phone,free,integrations,0.6,2135,low
+TCKT-00240,"Minor typo in the help page, no urgent impact.",email,standard,login,0.543,1966,low
+TCKT-00426,User cannot reset password after multiple attempts.,chat,standard,performance,-0.636,1553,medium
+TCKT-00098,Dashboard is slow and several charts time out.,chat,standard,billing,0.191,903,medium
+TCKT-00325,Enterprise customer reports data loss after migration.,email,free,integrations,-0.407,1834,high
+TCKT-00280,Critical API errors affecting premium customers.,phone,free,integrations,-0.777,2000,high
+TCKT-00294,Export file is missing some recent records.,email,standard,security,-0.347,1518,medium
+TCKT-00478,Export file is missing some recent records.,chat,free,performance,0.387,447,high
+TCKT-00123,User cannot reset password after multiple attempts.,chat,premium,integrations,-0.169,258,medium
+TCKT-00184,Export file is missing some recent records. Please respond as soon as possible.,email,enterprise,integrations,-0.328,549,medium
+TCKT-00203,Export file is missing some recent records. Please respond as soon as possible.,email,standard,performance,-0.578,2117,medium
+TCKT-00324,Where can I see the product documentation?,phone,standard,login,-0.017,2009,low
+TCKT-00247,How can I change my notification settings? Customer impact is increasing.,phone,premium,login,0.88,1439,low
+TCKT-00513,How can I change my notification settings?,chat,free,login,0.423,1259,high
+TCKT-00458,Payment failed for one customer but retry worked later.,email,standard,payments,-0.389,1883,medium
+TCKT-00479,Security incident with suspicious account access. Customer impact is increasing.,web,standard,billing,-0.259,2025,high
+TCKT-00500,Dashboard is slow and several charts time out. Please respond as soon as possible.,web,premium,payments,-0.36,108,medium
+TCKT-00530,Export file is missing some recent records.,email,standard,security,-0.017,41,medium
+TCKT-00389,Security incident with suspicious account access.,chat,enterprise,performance,-0.635,2136,high
+TCKT-00126,Where can I see the product documentation?,email,standard,payments,0.593,1602,low
+TCKT-00582,Payment failed for one customer but retry worked later. Please respond as soon as possible.,email,standard,integrations,-0.274,286,medium
+TCKT-00224,User cannot reset password after multiple attempts.,web,standard,payments,-0.035,243,medium
+TCKT-00343,Question about updating my profile picture.,web,free,integrations,0.159,1555,low
+TCKT-00054,Question about updating my profile picture. Customer impact is increasing.,chat,free,security,-0.168,775,low
+TCKT-00220,Integration stopped syncing for one workspace.,email,premium,login,-0.072,2039,medium
+TCKT-00130,"Minor typo in the help page, no urgent impact.",chat,standard,performance,0.309,683,low
+TCKT-00544,User cannot reset password after multiple attempts.,email,enterprise,payments,-0.234,422,medium
+TCKT-00394,Enterprise customer reports data loss after migration.,email,enterprise,security,-0.606,1371,high
+TCKT-00448,I need help finding the invoice download button.,chat,free,integrations,0.597,586,low
+TCKT-00546,Where can I see the product documentation?,web,free,security,-0.239,1385,low
+TCKT-00396,Payment failed for one customer but retry worked later. Customer impact is increasing.,phone,standard,performance,-0.113,1805,medium
+TCKT-00567,Question about updating my profile picture. Please respond as soon as possible.,email,free,login,-0.048,731,low
+TCKT-00403,Enterprise customer reports data loss after migration. Please respond as soon as possible.,email,enterprise,payments,-0.603,1177,high
+TCKT-00387,Question about updating my profile picture.,chat,standard,billing,0.074,1796,low
+TCKT-00581,Question about updating my profile picture.,chat,free,performance,0.37,1145,low
+TCKT-00295,Dashboard is slow and several charts time out.,email,premium,payments,0.254,667,medium
+TCKT-00501,User cannot reset password after multiple attempts.,phone,standard,payments,-0.401,256,medium
+TCKT-00483,Where can I see the product documentation? Customer impact is increasing.,email,free,security,0.567,188,low
+TCKT-00416,I need help finding the invoice download button. Please respond as soon as possible.,email,free,billing,0.482,615,low
+TCKT-00113,I need help finding the invoice download button. Customer impact is increasing.,web,standard,integrations,0.534,999,low
+TCKT-00180,Enterprise customer reports data loss after migration.,email,standard,payments,-0.726,960,high
+TCKT-00422,Export file is missing some recent records. Please respond as soon as possible.,chat,standard,performance,0.316,306,medium
+TCKT-00468,Export file is missing some recent records.,phone,premium,billing,0.005,1229,low
+TCKT-00450,How can I change my notification settings?,chat,standard,performance,0.409,1737,low
+TCKT-00374,Production outage: all users cannot log in.,web,enterprise,login,-0.035,1238,high
+TCKT-00315,User cannot reset password after multiple attempts.,phone,standard,login,-0.298,613,low
+TCKT-00152,How can I change my notification settings?,email,standard,integrations,0.569,217,low
+TCKT-00583,Export file is missing some recent records.,chat,premium,performance,-0.328,2044,medium
+TCKT-00234,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,free,login,0.189,395,medium
+TCKT-00307,"Minor typo in the help page, no urgent impact. Customer impact is increasing.",chat,standard,security,0.322,227,low
+TCKT-00550,Where can I see the product documentation?,chat,free,integrations,0.3,667,low
+TCKT-00165,Export file is missing some recent records. Customer impact is increasing.,chat,premium,payments,-0.192,1006,medium
+TCKT-00318,Payment failed for one customer but retry worked later. Please respond as soon as possible.,email,standard,payments,-0.675,730,medium
+TCKT-00137,Question about updating my profile picture. Please respond as soon as possible. Customer impact is increasing.,chat,free,login,0.118,1435,low
+TCKT-00411,Export file is missing some recent records.,web,enterprise,payments,-0.086,2182,medium
+TCKT-00198,Payment processing is down for all regions. Customer impact is increasing.,email,premium,security,-0.382,729,high
+TCKT-00569,Security incident with suspicious account access.,web,premium,performance,-0.65,325,high
+TCKT-00259,Critical API errors affecting premium customers. Please respond as soon as possible.,phone,premium,security,-0.307,8,low
+TCKT-00233,Critical API errors affecting premium customers.,email,standard,payments,-1.0,2061,high
+TCKT-00116,User cannot reset password after multiple attempts. Please respond as soon as possible.,phone,enterprise,login,0.127,2009,medium
+TCKT-00121,User cannot reset password after multiple attempts.,email,standard,performance,0.634,800,medium
+TCKT-00489,Payment failed for one customer but retry worked later. Please respond as soon as possible.,chat,standard,billing,0.084,1253,medium
+TCKT-00377,Critical API errors affecting premium customers.,email,enterprise,login,-0.718,1190,high
+TCKT-00385,Enterprise customer reports data loss after migration.,web,enterprise,security,-0.45,2000,high
+TCKT-00225,Payment failed for one customer but retry worked later.,phone,enterprise,billing,-0.04,52,medium
+TCKT-00568,Enterprise customer reports data loss after migration. Please respond as soon as possible. Customer impact is increasing.,web,enterprise,performance,-0.55,1236,high
+TCKT-00457,Integration stopped syncing for one workspace.,chat,standard,billing,-0.052,1757,medium
+TCKT-00348,I need help finding the invoice download button. Customer impact is increasing.,chat,standard,integrations,0.459,329,low
+TCKT-00128,Question about updating my profile picture. Please respond as soon as possible.,email,free,performance,0.633,1872,high
+TCKT-00591,Production outage: all users cannot log in. Customer impact is increasing.,phone,enterprise,login,-0.329,1050,high
+TCKT-00286,Production outage: all users cannot log in. Please respond as soon as possible. Customer impact is increasing.,email,standard,payments,-0.077,196,high
+TCKT-00554,User cannot reset password after multiple attempts.,email,premium,billing,0.378,145,medium
+TCKT-00044,Export file is missing some recent records.,web,standard,payments,-0.701,1002,low
+TCKT-00108,I need help finding the invoice download button. Please respond as soon as possible.,chat,standard,performance,0.585,1165,low
+TCKT-00565,How can I change my notification settings?,phone,premium,billing,0.419,59,low
+TCKT-00445,Export file is missing some recent records.,web,premium,performance,-0.327,491,medium
+TCKT-00134,How can I change my notification settings?,phone,premium,security,0.063,351,low
+TCKT-00496,User cannot reset password after multiple attempts.,email,standard,payments,-0.497,2195,medium
+TCKT-00045,Payment failed for one customer but retry worked later. Customer impact is increasing.,web,standard,security,0.057,667,medium
+TCKT-00170,Payment failed for one customer but retry worked later. Please respond as soon as possible.,phone,premium,payments,-0.422,969,medium
+TCKT-00066,Production outage: all users cannot log in.,phone,enterprise,integrations,-0.413,615,low
+TCKT-00284,User cannot reset password after multiple attempts. Customer impact is increasing.,phone,enterprise,billing,0.172,1450,medium
+TCKT-00086,Dashboard is slow and several charts time out. Customer impact is increasing.,chat,free,performance,-0.406,2189,medium
+TCKT-00243,Dashboard is slow and several charts time out. Customer impact is increasing.,email,premium,billing,-0.383,134,medium
+TCKT-00187,How can I change my notification settings?,phone,premium,login,0.363,1704,low
+TCKT-00327,Payment failed for one customer but retry worked later.,email,free,login,-0.058,1499,medium
+TCKT-00160,How can I change my notification settings? Please respond as soon as possible.,chat,standard,login,0.227,1118,low
+TCKT-00013,Production outage: all users cannot log in. Please respond as soon as possible.,email,enterprise,security,-0.34,1086,high
+TCKT-00036,Where can I see the product documentation?,chat,premium,integrations,0.675,449,low
+TCKT-00029,"Minor typo in the help page, no urgent impact. Please respond as soon as possible. Customer impact is increasing.",email,premium,payments,0.809,1642,low
+TCKT-00171,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",email,standard,payments,0.681,407,low
+TCKT-00143,Dashboard is slow and several charts time out.,email,standard,login,0.355,1173,medium
+TCKT-00237,User cannot reset password after multiple attempts.,email,enterprise,billing,-0.06,1858,medium
+TCKT-00464,Question about updating my profile picture.,email,premium,login,0.488,1593,low
+TCKT-00497,Enterprise customer reports data loss after migration. Please respond as soon as possible.,chat,premium,security,-0.957,203,high
+TCKT-00222,Security incident with suspicious account access.,email,enterprise,billing,-0.697,1433,high
+TCKT-00545,I need help finding the invoice download button.,chat,standard,login,0.844,1067,low
+TCKT-00096,Integration stopped syncing for one workspace. Please respond as soon as possible.,phone,free,login,0.368,1723,medium
+TCKT-00052,"Minor typo in the help page, no urgent impact.",email,standard,performance,-0.019,2010,low
+TCKT-00241,Where can I see the product documentation?,phone,enterprise,integrations,0.456,1246,low
+TCKT-00508,Export file is missing some recent records. Please respond as soon as possible.,email,standard,login,0.028,1606,medium
+TCKT-00352,Production outage: all users cannot log in. Please respond as soon as possible.,email,premium,login,-0.287,62,high
+TCKT-00517,How can I change my notification settings? Please respond as soon as possible. Customer impact is increasing.,email,premium,integrations,0.475,2066,low
+TCKT-00179,Where can I see the product documentation? Please respond as soon as possible. Customer impact is increasing.,web,free,login,-0.013,1975,low
+TCKT-00461,Payment failed for one customer but retry worked later. Please respond as soon as possible.,chat,enterprise,performance,-0.765,1407,medium
+TCKT-00527,Payment failed for one customer but retry worked later.,phone,premium,login,-0.049,967,medium
+TCKT-00042,I need help finding the invoice download button. Please respond as soon as possible. Customer impact is increasing.,chat,free,integrations,0.313,391,low
+TCKT-00555,Dashboard is slow and several charts time out.,web,enterprise,performance,0.084,714,medium
+TCKT-00523,"Minor typo in the help page, no urgent impact.",email,free,integrations,0.848,839,low
+TCKT-00207,Security incident with suspicious account access.,web,enterprise,integrations,-0.389,452,high
+TCKT-00393,I need help finding the invoice download button.,email,standard,performance,0.705,1875,low
+TCKT-00283,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",email,standard,integrations,0.658,258,low
+TCKT-00359,Security incident with suspicious account access.,chat,premium,security,-0.769,1349,high
+TCKT-00398,I need help finding the invoice download button.,chat,free,login,0.619,102,low
+TCKT-00255,Security incident with suspicious account access.,chat,premium,performance,-0.381,1665,high
+TCKT-00218,Payment failed for one customer but retry worked later.,phone,standard,billing,0.239,1868,medium
+TCKT-00005,Where can I see the product documentation?,phone,free,integrations,0.144,1049,low
+TCKT-00257,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,enterprise,login,0.025,2022,medium
+TCKT-00564,User cannot reset password after multiple attempts.,chat,premium,payments,0.238,1889,high
+TCKT-00534,"Minor typo in the help page, no urgent impact.",phone,standard,payments,0.457,913,low
+TCKT-00431,Integration stopped syncing for one workspace.,email,free,billing,0.195,1617,medium
+TCKT-00101,Question about updating my profile picture.,web,enterprise,integrations,0.347,783,low
+TCKT-00227,Integration stopped syncing for one workspace. Customer impact is increasing.,web,standard,payments,-0.521,327,medium
+TCKT-00449,Production outage: all users cannot log in.,phone,standard,performance,-0.664,648,high
+TCKT-00548,Security incident with suspicious account access.,chat,enterprise,login,-0.753,1544,high
+TCKT-00572,Dashboard is slow and several charts time out. Customer impact is increasing.,email,free,billing,-0.101,42,medium
+TCKT-00214,Dashboard is slow and several charts time out.,chat,premium,login,-0.04,1344,medium
+TCKT-00360,Export file is missing some recent records.,email,premium,billing,-0.628,1782,medium
+TCKT-00172,I need help finding the invoice download button.,phone,premium,performance,0.487,1384,low
+TCKT-00099,I need help finding the invoice download button.,phone,premium,login,-0.134,1507,low
+TCKT-00293,"Minor typo in the help page, no urgent impact.",web,enterprise,performance,0.371,518,low
+TCKT-00216,I need help finding the invoice download button. Please respond as soon as possible.,web,enterprise,security,0.06,2035,low
+TCKT-00062,Critical API errors affecting premium customers.,chat,standard,login,-0.941,103,high
+TCKT-00407,User cannot reset password after multiple attempts.,phone,free,payments,0.304,1602,high
+TCKT-00048,Security incident with suspicious account access.,phone,enterprise,billing,-0.72,1006,high
+TCKT-00033,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",web,premium,integrations,0.47,1383,low
+TCKT-00418,Dashboard is slow and several charts time out. Please respond as soon as possible.,email,premium,integrations,0.305,1083,medium
+TCKT-00268,Production outage: all users cannot log in. Please respond as soon as possible.,web,enterprise,billing,-0.825,127,high
+TCKT-00328,Export file is missing some recent records. Please respond as soon as possible.,chat,standard,login,-0.299,353,medium
+TCKT-00201,User cannot reset password after multiple attempts.,chat,premium,integrations,-0.193,525,medium
+TCKT-00135,I need help finding the invoice download button.,email,free,login,0.454,1317,low
+TCKT-00028,Payment processing is down for all regions.,web,premium,login,-0.682,1328,high
+TCKT-00525,How can I change my notification settings?,email,standard,payments,0.092,432,low
+TCKT-00506,Question about updating my profile picture. Customer impact is increasing.,email,standard,integrations,0.424,1867,low
+TCKT-00231,Dashboard is slow and several charts time out.,chat,enterprise,performance,0.177,583,medium
+TCKT-00490,How can I change my notification settings?,chat,standard,security,0.239,1770,low
+TCKT-00261,Export file is missing some recent records.,email,standard,integrations,-0.096,1078,medium
+TCKT-00379,Dashboard is slow and several charts time out. Please respond as soon as possible.,web,enterprise,security,-0.023,1601,medium
+TCKT-00289,Dashboard is slow and several charts time out.,phone,standard,payments,-0.604,662,medium
+TCKT-00419,I need help finding the invoice download button. Customer impact is increasing.,phone,free,payments,0.084,1156,low
+TCKT-00392,I need help finding the invoice download button.,chat,standard,integrations,0.543,1955,low
+TCKT-00499,Where can I see the product documentation?,email,free,performance,0.217,1903,low
+TCKT-00139,"Minor typo in the help page, no urgent impact. Please respond as soon as possible.",web,standard,integrations,0.005,1523,low
+TCKT-00063,Critical API errors affecting premium customers.,chat,enterprise,payments,-0.595,2049,medium
+TCKT-00472,Export file is missing some recent records.,phone,enterprise,payments,-0.128,284,medium
+TCKT-00129,Where can I see the product documentation?,web,premium,security,0.282,1003,low
+TCKT-00584,Where can I see the product documentation?,chat,free,billing,0.188,396,low
+TCKT-00521,How can I change my notification settings?,chat,free,payments,0.441,929,low
+TCKT-00065,Integration stopped syncing for one workspace.,email,standard,billing,-0.367,573,medium
+TCKT-00015,I need help finding the invoice download button.,chat,free,security,0.716,651,low
+TCKT-00157,Payment failed for one customer but retry worked later.,phone,standard,payments,0.067,1898,medium
+TCKT-00041,How can I change my notification settings?,email,premium,integrations,0.442,1397,low
+TCKT-00493,Question about updating my profile picture. Customer impact is increasing.,chat,free,payments,0.372,467,low
+TCKT-00380,Integration stopped syncing for one workspace. Customer impact is increasing.,email,standard,billing,-0.911,1310,medium
+TCKT-00188,User cannot reset password after multiple attempts. Please respond as soon as possible.,phone,enterprise,integrations,-0.171,866,medium
+TCKT-00217,How can I change my notification settings?,email,standard,billing,0.648,1870,low
+TCKT-00053,Question about updating my profile picture.,chat,standard,performance,0.367,341,low
+TCKT-00338,Security incident with suspicious account access.,chat,enterprise,login,-0.164,1857,high
+TCKT-00296,User cannot reset password after multiple attempts.,chat,premium,performance,-0.218,149,medium
+TCKT-00252,Enterprise customer reports data loss after migration.,chat,premium,login,-0.491,1912,high
+TCKT-00462,Security incident with suspicious account access.,phone,enterprise,security,-0.649,652,high
+TCKT-00456,Question about updating my profile picture.,web,free,security,0.189,1066,low
+TCKT-00598,Integration stopped syncing for one workspace. Please respond as soon as possible.,email,premium,login,-0.558,1307,medium
+TCKT-00270,Integration stopped syncing for one workspace.,email,standard,payments,0.237,1844,medium
+TCKT-00202,Export file is missing some recent records. Customer impact is increasing.,chat,enterprise,payments,-0.436,1165,medium
+TCKT-00162,Dashboard is slow and several charts time out. Please respond as soon as possible.,phone,standard,login,-0.163,1689,medium
+TCKT-00402,I need help finding the invoice download button.,email,premium,login,0.612,238,low
+TCKT-00477,Payment failed for one customer but retry worked later.,chat,enterprise,security,0.066,49,high
+TCKT-00106,I need help finding the invoice download button.,chat,standard,security,0.271,868,low
+TCKT-00390,Critical API errors affecting premium customers.,email,enterprise,payments,-0.538,245,high
+TCKT-00002,Integration stopped syncing for one workspace.,email,premium,billing,0.133,818,medium
+TCKT-00559,User cannot reset password after multiple attempts.,chat,free,billing,0.061,269,medium
+TCKT-00081,How can I change my notification settings?,email,free,performance,0.109,1711,low
+TCKT-00206,I need help finding the invoice download button.,chat,standard,integrations,0.393,554,low
+TCKT-00035,I need help finding the invoice download button.,chat,free,payments,-0.089,406,low
+TCKT-00509,Dashboard is slow and several charts time out.,web,standard,billing,-0.746,2031,medium
+TCKT-00428,Enterprise customer reports data loss after migration.,chat,premium,billing,-0.435,716,high
+TCKT-00455,Dashboard is slow and several charts time out.,email,premium,integrations,0.19,710,medium
+TCKT-00367,Where can I see the product documentation? Customer impact is increasing.,email,free,performance,0.577,1755,low
+TCKT-00092,How can I change my notification settings?,chat,free,integrations,0.615,1312,low
+TCKT-00340,Payment failed for one customer but retry worked later. Please respond as soon as possible.,phone,enterprise,integrations,0.146,1448,medium
+TCKT-00346,I need help finding the invoice download button. Please respond as soon as possible.,email,standard,integrations,0.706,278,low
+TCKT-00242,"Minor typo in the help page, no urgent impact.",web,free,security,0.562,1160,low
+TCKT-00014,User cannot reset password after multiple attempts.,chat,free,payments,-0.093,418,medium
+TCKT-00316,Enterprise customer reports data loss after migration.,chat,enterprise,payments,-0.18,2156,high
+TCKT-00388,Export file is missing some recent records.,email,enterprise,performance,-0.394,1581,medium
+TCKT-00274,User cannot reset password after multiple attempts. Please respond as soon as possible. Customer impact is increasing.,chat,enterprise,payments,0.365,2168,medium
+TCKT-00167,Export file is missing some recent records.,email,free,performance,-0.486,253,medium
+TCKT-00595,Where can I see the product documentation? Please respond as soon as possible.,email,free,integrations,0.72,1457,low
+TCKT-00485,Dashboard is slow and several charts time out.,phone,premium,login,-0.862,272,medium
+TCKT-00586,Enterprise customer reports data loss after migration. Customer impact is increasing.,chat,enterprise,payments,-0.035,364,high
+TCKT-00505,Question about updating my profile picture. Please respond as soon as possible.,email,premium,login,0.337,1454,low
+TCKT-00244,Security incident with suspicious account access.,chat,standard,billing,-0.4,1968,high
+TCKT-00563,Critical API errors affecting premium customers.,web,enterprise,security,-0.465,642,high
+TCKT-00190,Security incident with suspicious account access.,chat,enterprise,security,-0.516,2085,high
+TCKT-00476,User cannot reset password after multiple attempts.,chat,standard,integrations,0.062,280,low
+TCKT-00511,User cannot reset password after multiple attempts.,email,premium,security,0.186,1129,medium
+TCKT-00059,Production outage: all users cannot log in.,chat,enterprise,billing,-0.441,2190,high
+TCKT-00475,How can I change my notification settings?,chat,standard,security,0.099,661,low
+TCKT-00561,Question about updating my profile picture.,chat,free,payments,0.143,759,low
+TCKT-00253,Where can I see the product documentation? Please respond as soon as possible.,email,free,integrations,0.119,1549,low
+TCKT-00022,How can I change my notification settings? Please respond as soon as possible.,web,free,payments,0.781,274,low
+TCKT-00314,Payment processing is down for all regions.,email,enterprise,payments,-0.611,1506,high
+TCKT-00460,Payment failed for one customer but retry worked later. Please respond as soon as possible.,chat,standard,integrations,-0.027,18,medium
+TCKT-00161,Export file is missing some recent records.,email,standard,integrations,-0.57,1869,medium
+TCKT-00277,Question about updating my profile picture.,email,premium,integrations,0.235,128,low
+TCKT-00192,Critical API errors affecting premium customers.,email,enterprise,security,-0.943,116,high
+TCKT-00386,Dashboard is slow and several charts time out. Please respond as soon as possible.,email,enterprise,performance,0.401,1489,medium
+TCKT-00414,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,premium,login,0.116,973,medium
+TCKT-00492,Integration stopped syncing for one workspace. Customer impact is increasing.,web,premium,performance,-0.245,728,medium
+TCKT-00344,User cannot reset password after multiple attempts.,web,standard,login,0.072,829,medium
+TCKT-00309,Enterprise customer reports data loss after migration. Customer impact is increasing.,web,enterprise,performance,-0.592,1163,high
+TCKT-00131,I need help finding the invoice download button. Customer impact is increasing.,email,free,integrations,0.214,139,low
+TCKT-00100,"Minor typo in the help page, no urgent impact.",chat,enterprise,integrations,0.248,1483,medium
+TCKT-00373,Where can I see the product documentation? Customer impact is increasing.,email,standard,performance,0.226,1347,low
+TCKT-00088,User cannot reset password after multiple attempts.,email,free,billing,0.275,70,high
+TCKT-00459,How can I change my notification settings?,chat,free,performance,0.215,73,low
+TCKT-00331,Payment failed for one customer but retry worked later.,email,standard,performance,-0.033,114,medium
+TCKT-00215,"Minor typo in the help page, no urgent impact.",web,free,integrations,-0.038,495,low
+TCKT-00467,How can I change my notification settings? Please respond as soon as possible. Customer impact is increasing.,email,free,integrations,0.439,2147,low
+TCKT-00122,Question about updating my profile picture.,phone,premium,login,0.236,742,medium
+TCKT-00021,Integration stopped syncing for one workspace.,phone,standard,integrations,-0.034,698,medium
+TCKT-00072,Dashboard is slow and several charts time out.,chat,enterprise,performance,-0.09,563,high
+TCKT-00107,Integration stopped syncing for one workspace. Please respond as soon as possible.,web,free,payments,-0.077,2111,medium
+TCKT-00271,Question about updating my profile picture.,phone,standard,integrations,0.304,1757,low
+TCKT-00436,User cannot reset password after multiple attempts. Please respond as soon as possible.,email,enterprise,login,-0.343,209,medium
+TCKT-00103,How can I change my notification settings?,email,free,performance,0.272,248,low
